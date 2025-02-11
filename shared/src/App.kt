@@ -1,3 +1,5 @@
+package com.zedsols.kotlin_multiplatform
+
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize

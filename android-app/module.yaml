@@ -8,3 +8,6 @@ dependencies:
 
 settings:
   compose: enabled
+  android:
+    applicationId: com.zedsols.kotlin_multiplatform
+    namespace: com.zedsols.kotlin_multiplatform
